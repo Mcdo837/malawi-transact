@@ -1,0 +1,48 @@
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    background-color: white;
+    box-shadow: 2px 2px 2px grey;
+    margin-bottom: 100px;
+}
+header button{
+    background-color: white;
+    border-color: white;
+    border-style:none;
+    font-size: 40px;
+    margin-right: 400px;
+}
+header a{
+    text-decoration: none;
+    color: black;
+    font-size: 26px;
+    margin-right:50px;
+    font-weight: bold;
+}
+main center h1{
+    font-size: 60px;
+    font-family: Helvetica;
+    color: white;
+}
+main center label{
+    font-size: 35px;
+       color: white;
+}
+main center input{
+    width:140;
+    height: 25px;
+    padding-bottom: -30px;
+    padding-top: 10px;
+}
+
+main center button{
+    font-size: 50px;
+    background-color: orange;
+    border-radius: 5px;
+    cursor:pointer;
+}
