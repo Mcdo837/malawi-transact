@@ -1,0 +1,73 @@
+body{
+    background-image: url(images/background1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+}
+header{
+    background-color: white;
+    margin-bottom: 2em;
+}
+header button{
+    background-color: white;
+    border-width: 0.08px;
+    font-size: 25px;
+    font-family: Helvetica;
+    font-weight: bold;
+    margin-right:300px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+header a{
+    text-decoration: none;
+    color: black;
+    padding-left: 40px;
+    font-size: 25px;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+.intro{
+    font-size:55px;
+    color:white;
+    font-weight: bold;
+}
+.wifi-icon{
+    margin-left: -490px;
+    margin-top: -270px;
+    margin-bottom: 100px;
+}
+.intro-sub{
+    font-size: 37px;
+    color: rgb(255, 255, 255);
+    width:250px;
+     font-weight: bold;
+     text-shadow: 20px 20px 20px  rgb(14, 14, 14);
+     font-display:block;
+     margin-top: -28px;
+}
+.intro-btn{
+    background-color: white;
+    color:black;
+    font-size: 30px;
+    margin-top:-300px;
+    margin-bottom: 300px;
+    width: 200px;
+    margin-left: 40px;
+    border-style: solid;
+    border-radius: 5px;
+}
+.pic-section{
+    background-color: rgb(0, 0, 0);
+    background-image: none;
+}
+.first-background{
+    background-image: none;
+    margin-bottom: -40px;
+}
+section{
+    background-image: none;
+    background-color: black;
+}
